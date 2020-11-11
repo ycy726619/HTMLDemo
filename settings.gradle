@@ -1,0 +1,2 @@
+include ':app', ':xweb'
+rootProject.name='HTMLDemo'
