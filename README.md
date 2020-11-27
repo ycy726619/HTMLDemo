@@ -1,7 +1,13 @@
 # HTMLDemo
 对WebView进行简单封装
 
-使用
+H5调用Android
+
+    //始终都是这一句不过注意Android端注册的Js对象名称和方法要与下面对应
+    window.android.onResult(param)
+
+
+Android使用
 layout
 
 
